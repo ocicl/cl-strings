@@ -1,0 +1,9 @@
+* cl-strings
+
+A portable, dependency-free set of utilities to manipulate strings in Common Lisp
+
+|---------+------------------------------------------------------------|
+| source  | git:https://github.com/diogoalexandrefranco/cl-strings.git |
+| commit  | 93ec417                                                    |
+| systems | cl-strings                                                 |
+|---------+------------------------------------------------------------|
