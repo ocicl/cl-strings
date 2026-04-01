@@ -7,3 +7,4 @@ A portable, dependency-free set of utilities to manipulate strings in Common Lis
 | commit  | 93ec417                                                    |
 | systems | cl-strings                                                 |
 |---------+------------------------------------------------------------|
+ 
